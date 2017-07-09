@@ -3,8 +3,7 @@
 A test project for `jasmine helpers`
 
 
-## Issues
-* Jasmine helpers not running
+## Issues Resolved
 
 
 ## setup
